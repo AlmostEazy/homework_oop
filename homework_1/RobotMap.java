@@ -1,4 +1,4 @@
-package ru.gb.lesson1.game;
+package homework_1;
 
 import java.util.ArrayList;
 import java.util.List;
